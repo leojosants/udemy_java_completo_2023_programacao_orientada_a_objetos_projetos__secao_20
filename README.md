@@ -1,2 +1,1 @@
-# udemy_java_completo_2023_programacao_orientada_a_objetos_projetos__secao_20
-Programação funcional e expressões lambda
+# Programação funcional e expressões lambda
